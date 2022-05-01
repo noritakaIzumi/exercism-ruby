@@ -1,0 +1,8 @@
+# exercism config
+/**/.exercism
+
+# exercism test results
+/output
+
+# documents
+*.md
